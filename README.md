@@ -1,6 +1,6 @@
 # wow-cpp
 
-[![](https://img.shields.io/github/v/tag/thechampagne/wow-cpp?label=version)](https://github.com/thechampagne/wow-cpp/releases/latest) [![](https://img.shields.io/github/license/thechampagne/wow-cpp)](https://github.com/thechampagne/wow-cpp/blob/main/LICENSE)
+[![](https://img.shields.io/github/v/tag/thechampagne/wow-hpp?label=version)](https://github.com/thechampagne/wow-hpp/releases/latest) [![](https://img.shields.io/github/license/thechampagne/wow-hpp)](https://github.com/thechampagne/wow-hpp/blob/main/LICENSE)
 
 C++ binding for **wow-cgo**.
 
@@ -42,4 +42,4 @@ namespace wow {
 
 ### License
 
-This repo is released under the [MIT](https://github.com/thechampagne/wow-cpp/blob/main/LICENSE).
+This repo is released under the [MIT](https://github.com/thechampagne/wow-hpp/blob/main/LICENSE).
